@@ -1,0 +1,17 @@
+/Volumes/MyVirtualDisk
+/Volumes/MyVirtualDisk/.fseventsd
+/Volumes/MyVirtualDisk/.fseventsd/fseventsd-uuid
+/Volumes/MyVirtualDisk/Y
+/Volumes/MyVirtualDisk/Y/Git
+/Volumes/MyVirtualDisk/Y/ServerConnect
+/Volumes/MyVirtualDisk/Y/ServerConnect/Ips
+/Volumes/MyVirtualDisk/Y/ServerConnect/Ports
+/Volumes/MyVirtualDisk/Y/User
+/Volumes/MyVirtualDisk/Y/User/Cache
+/Volumes/MyVirtualDisk/Y/User/Log
+/Volumes/MyVirtualDisk/Y/User/Log/ID
+/Volumes/MyVirtualDisk/Y/User/Log/Password
+/Volumes/MyVirtualDisk/Y/User/Userinfo
+/Volumes/MyVirtualDisk/Y/User/Userinfo/Contacts
+/Volumes/MyVirtualDisk/Y/User/Userinfo/ProfilePicture
+/Volumes/MyVirtualDisk/Y/User/Userinfo/UserInformation
